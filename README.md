@@ -1,7 +1,7 @@
 # Optimal-Influencer-Marketing-Campaign
 This repository contains the code related to the papers
 
-- R. Lopez Dawn, A. Giovanidis - Social Influencer Selection by Budgeted Portfolio Optimization, WiOpt 2021.
+- R. Lopez Dawn, A. Giovanidis - Optimal Influencer Marketing Campaign under Budget Constraints using Frank-Wolfe.
 
 One can find here one Python notebook and seven text files:
 
